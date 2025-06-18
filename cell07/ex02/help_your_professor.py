@@ -8,7 +8,7 @@ class_B = {
     "o": 9
 }
 
-class_c = {
+class_C = {
     "p": 40,
     "e": 35,
     "n": 30,
