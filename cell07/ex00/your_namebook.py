@@ -6,10 +6,10 @@ def array_of_names(name_dict):
     return full_names
 
 persons = {
-    "sawittcha": "jiamthanunkul",
-    "chutinun": "yungmak",
-    "geno": "pum",
-    "pum": "geno"
+    "monruedi": "yachai",
+    "jeno": "lee",
+    "jeno": "pennueng",
+    "pennueng": "jeno"
 }
 
 print(array_of_names(persons))

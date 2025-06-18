@@ -1,12 +1,12 @@
-def genopum(family):
-    return list(filter(lambda name: family[name]== "pupennueng", family.keys()))
+def jenopennueng(family):
+    return list(filter(lambda name: family[name] == "pennueng", family.keys()))
 
 dupont_family = {
     "pennueng": "pennueng",
-    "geno": "geno",
+    "่jeno": "jeno",
     "mairu": "tem",
-    "chutinun": "pupennueng",
-    "yungmak": "pupennueng"
+    "moruedi": "pennueng",
+    "yachai": "pennueng"
 }
 
-print(genopum(dupont_family))
+print(jenopennueng(dupont_family))
